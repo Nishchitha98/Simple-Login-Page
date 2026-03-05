@@ -23,10 +23,15 @@ Project Structure
 
 project-folder
 │
+
 ├── index.html        # Login Page
+
 ├── signup.html       # Sign Up Page
+
 ├── forgot.html       # Reset Password Page
+
 ├── style.css         # Styling for all pages
+
 └── script.js         # JavaScript file (optional/future use)
 
 How to Run the Project
@@ -52,4 +57,5 @@ Connect with backend authentication
 Make the design fully responsive for mobile devices
 
 Author
+
 Developed by Nishchitha
