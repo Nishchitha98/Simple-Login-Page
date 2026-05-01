@@ -1,9 +1,9 @@
-Login Page UI
+## Login Page UI
 
 A simple and responsive Login Page UI built using HTML and CSS.
 This project includes a Login page, Sign Up page, and Forgot Password page with a modern UI design using Flexbox and Glassmorphism styling.
 
-Features
+## Features
 
 Clean and modern login interface
 Centered layout using CSS Flexbox
@@ -14,16 +14,15 @@ Input focus highlight
 White placeholder styling
 Links for Forgot Password and Sign Up
 
-Technologies Used
+## Technologies Used
 
 HTML5
 CSS3
 
-Project Structure
+## Project Structure
 
-project-folder
+Project-folder
 
-│
 
 ├── index.html        # Login Page
 
@@ -35,13 +34,13 @@ project-folder
 
 └── script.js         # JavaScript file (optional/future use)
 
-How to Run the Project
+## How to Run the Project
 
 Download or clone the repository.
 Open the project folder.
 Open index.html in any web browser.
 
-UI Features Implemented
+## UI Features Implemented
 
 Centered login card using display: flex
 Transparent login container with blur effect
@@ -50,13 +49,13 @@ Input fields with bottom border styling
 White placeholders for better visibility
 Divider between Forgot Password and Sign Up
 
-Future Improvements
+## Future Improvements
 
 Add form validation using JavaScript
 Add password show/hide toggle
 Connect with backend authentication
 Make the design fully responsive for mobile devices
 
-Author
+## Author
 
 Developed by Nishchitha
