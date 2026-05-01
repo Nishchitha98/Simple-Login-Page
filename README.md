@@ -14,6 +14,9 @@ Input focus highlight
 White placeholder styling
 Links for Forgot Password and Sign Up
 
+## Project live here
+https://nishchitha98.github.io/Simple-Login-Page/
+
 ## Technologies Used
 
 HTML5
